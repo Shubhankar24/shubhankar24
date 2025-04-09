@@ -3,15 +3,14 @@
 <h3 align="center">I am a .Net Developer</h3>
 <img align="right" alt="Coding" width="400" src="https://i.pinimg.com/originals/e8/f4/53/e8f453469a3ec97ecd354df465d73913.gif">
 
-<h3 align="center">Almost Everything comes from almost nothing</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=shubhankar24&label=Profile%20views&color=0e75b6&style=flat" alt="shubhankar24" /> </p>
 
 - 🌱 I’m currently learning **Networking**
 
-- 👯 I’m looking to collaborate on **FrontEnd Projects**
+- 👯 I’m looking to collaborate on **FrontEnd Projects** 
 
-- 💬 Ask me about **FrontEnd Stacks**
+- 💬 Ask me about **FrontEnd Stacks** **,** **.NET**
 
 - 📫 How to reach me **shubhankar2024@gmail.com**
 
