@@ -1,9 +1,9 @@
 ![logo](https://repository-images.githubusercontent.com/588181932/e36ec678-7984-4cdd-8e4c-a3932772ff8e )
 <h1 align="center">Hi 👋, I'm Shubhankar Gupta</h1>
-<h3 align="center">I am a Front End Developer.</h3>
+<h3 align="center">I am a .Net Developer</h3>
 <img align="right" alt="Coding" width="400" src="https://i.pinimg.com/originals/e8/f4/53/e8f453469a3ec97ecd354df465d73913.gif">
 
-<h3 align="center">A passionate frontend developer from India</h3>
+<h3 align="center">Almost Everything comes from almost nothing</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=shubhankar24&label=Profile%20views&color=0e75b6&style=flat" alt="shubhankar24" /> </p>
 
