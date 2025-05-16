@@ -10,7 +10,7 @@
 
 - 👯 I’m looking to collaborate on **FrontEnd Projects** 
 
-- 💬 Ask me about **FrontEnd Stacks** **,** **.NET**
+- 💬 Ask me about **FrontEnd Stacks** **,** **.NET** **,** **SiteCore**
 
 - 📫 How to reach me **shubhankar2024@gmail.com**
 
